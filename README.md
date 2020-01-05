@@ -19,6 +19,7 @@
 * ## Model Docmentation - 
     * ### [Project Brief](./ProjectBrief.pdf)
     * ### [Presentation](./DataModelPresentation.pdf)
+    * ### [Video](https://youtu.be/rFhZ-H418Nc)
     
 
 
